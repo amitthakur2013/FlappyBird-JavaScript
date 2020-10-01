@@ -1,4 +1,5 @@
 # FlappyBird-JavaScript
+updated
 
 The Snake game, is created using JavaScript, and The HTML5 canvas.
 
